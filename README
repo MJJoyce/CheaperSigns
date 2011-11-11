@@ -1,0 +1,23 @@
+----------------------------------------
+Cheaper Signs (1.8_1)
+----------------------------------------
+
+A Minecraft mod that adds a cheaper, more convenient crafting recipe for signs and makes them stackable.
+
+----------------------------------------
+Recipes
+----------------------------------------
+
+Signs can now be crafted without the use of a crafting table.
+
+P - Plank
+| - Stick
+
+.P   or   P.
+.|        |.
+
+----------------------------------------
+Installation
+----------------------------------------
+
+Install ModLoader. Add the two class files and delete META-INF. Enjoy =)
